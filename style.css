@@ -101,7 +101,7 @@ body {
 }
 
 .text {
-  color: #8b6a60;
+  color: white;
   font-family: 'Lato', sans-serif;
   font-weight: 300;
   font-style:italic;
@@ -109,4 +109,12 @@ body {
   h1 {
     font-size: 1.4em;
   }
+}
+#teks {
+  text-align: justify;
+  color: black;
+  text-shadow: 2px 2px 4px 2px;
+  background-color: white;
+  border-radius: 7px;
+  padding: 20px;
 }
